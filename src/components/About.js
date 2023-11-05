@@ -16,7 +16,7 @@ export default function About() {
         backgroundColor : 'black',
         border : '1px solid white'
       })
-      setMode("Enable Light Mode");
+      setMode("Enable light Mode");
     }
     else{
       setMyStyle({
